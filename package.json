@@ -1,0 +1,26 @@
+{
+  "name": "glob-to-vinyl",
+  "version": "0.0.1",
+  "description": "Takes a glob, reads in files and returns Vinyls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam-lynch/glob-to-vinyl.git"
+  },
+  "keywords": [
+    "glob",
+    "vinyl",
+    "read",
+    "file",
+    "gulpfriendly"
+  ],
+  "author": "Adam Lynch <contact@adamlynch.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam-lynch/glob-to-vinyl/issues"
+  },
+  "homepage": "https://github.com/adam-lynch/glob-to-vinyl"
+}
