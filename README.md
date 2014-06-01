@@ -1,7 +1,7 @@
 glob-to-vinyl [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
 =============
 
-Takes a glob, reads in files and returns [Vinyl](https://github.com/wearefractal/vinyl))s. Created based on [wearefractal/vinyl/issues/20](https://github.com/wearefractal/vinyl/issues/20).
+Takes a glob, reads in files and returns [Vinyl](https://github.com/wearefractal/vinyl)s. Created based on [wearefractal/vinyl/issues/20](https://github.com/wearefractal/vinyl/issues/20).
 
 ## Usage
 
