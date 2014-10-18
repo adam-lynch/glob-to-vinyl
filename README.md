@@ -16,7 +16,7 @@ globToVinyl('*.js', function(err, files){
 
 
 [npm-url]: https://npmjs.org/package/glob-to-vinyl
-[npm-image]: https://badge.fury.io/js/glob-to-vinyl.png
+[npm-image]: http://img.shields.io/npm/v/glob-to-vinyl.svg?style=flat
 
 [depstat-url]: https://david-dm.org/adam-lynch/glob-to-vinyl
-[depstat-image]: https://david-dm.org/adam-lynch/glob-to-vinyl.png
+[depstat-image]: https://david-dm.org/adam-lynch/glob-to-vinyl.svg?style=flat
