@@ -1,6 +1,6 @@
 {
   "name": "glob-to-vinyl",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Takes a glob, reads in files and returns Vinyls",
   "main": "index.js",
   "scripts": {
