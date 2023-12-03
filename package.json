@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/adam-lynch/glob-to-vinyl",
   "dependencies": {
-    "vinyl-fs": "^1.0.0",
+    "vinyl-fs": "^4.0.0",
     "nextback": "^0.1.0"
   }
 }
